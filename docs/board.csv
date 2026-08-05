@@ -1,0 +1,15 @@
+Title,Body,Status,Milestone,Labels,Estimate
+1.1 Sponsor / mentor scoping & confirmation,Confirm scope and sign-off with sponsor and industry mentor,Sprint 1,Part B Week 1,docs,8
+1.2 Tradie journey + consent map,Map the tradie journey and the consent/opt-out flow,Sprint 1,Part B Week 1,research,12
+1.3 Message + intake templates,Draft compliant SMS templates (name+ABN+STOP) and job-intake fields,Sprint 1,Part B Week 1,build,12
+1.4 Architecture document (baseline),Baseline architecture doc from A3 design,Sprint 1,Part B Week 2,docs,10
+2.1 Missed-call detection,SIM/VoIP hook to emit a missed-call event,Sprint 1,Part B Week 2,build,20
+2.2 Orchestration + LLM step,Make scenario + LLM message composition and light intent,Backlog,Part B Week 3,build,30
+2.3 SMS gateway + opt-out handling,Integrate AU gateway; honour STOP automatically,Backlog,Part B Week 4,build,20
+2.4 Booking capture + 5-minute setup UI,Capture job intake; five-minute phone setup,Backlog,Part B Week 5,build,30
+3.1 Compliance review (gate),Spam Act / APP checklist review before any live message,Backlog,Part B Week 6,ethics,16
+3.2 Pilot with 5 tradies,Four-week live pilot; collect service metrics + feedback,Backlog,Part B Week 7,research,40
+3.3 Metrics + analysis,Compute metrics against SMART targets; analyse,Backlog,Part B Week 11,research,24
+4.1 Final evaluation report,Write final report incl. pivot-or-persist,Backlog,Part B Week 12,docs,24
+4.2 Sponsor demo,Demo to sponsor,Backlog,Part B Week 12,docs,8
+4.3 Repo + handover note,Repo documentation and handover,Backlog,Part B Week 12,docs,10
