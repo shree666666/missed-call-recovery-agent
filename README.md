@@ -72,8 +72,8 @@ Event-based messaging (compute only when a real call is missed) keeps the footpr
 
 ## Contact
 
-Shreekrishna Gyawali · SHEA25124 · *LinkedIn: <add link>* · *email: <add email>*
-Mentor / sponsor: to be confirmed.
+Shreekrishna Gyawali · SHEA25124 ·  *email: <gyawalishreekrishna9@gmail.com>*
+
 
 ## Acknowledgements
 
